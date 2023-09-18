@@ -1,0 +1,25 @@
+> ng g c inicio
+
+> ng g c auth/components/login
+> ng g c auth/components/registro
+.....
+## modulos
+...
+
+> ng g m aut --routing
+> ng g m admin --routing
+
+> ng g m core
+
+
+## servicios
+
+
+> ng g s core/services/login
+
+## Guards
+> ng g guard guards/auth
+
+## Interceptor   revisi{on 18.01.2023
+
+>ng g interceptor interceptor
